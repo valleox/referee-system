@@ -1,5 +1,14 @@
 # Referee System
 
+> **本仓库已封存（只读），不再更新。**
+>
+> 后续开发已迁移到 [valleox/hustfootball](https://github.com/valleox/hustfootball)，
+> 部署在 Vercel + Neon：https://hustfootball.vercel.app
+>
+> 本仓库保留的是 Raspberry Pi + Docker Compose 版本，最后一次更新为 2026 年 10 月 5 日，
+> 业务代码与 hustfootball 当时一致（含用户页面、排班发布、裁判反馈、Excel 导出）。
+> 如需重新在树莓派上部署，可在 GitHub 设置中取消封存后继续使用。
+
 足协裁判管理系统，用于录入比赛、安排裁判、发布排班、收集确认状态，并导出裁判安排。
 
 项目目前处于基础功能开发阶段，运行在 Raspberry Pi 的 Docker 环境中。
